@@ -12,14 +12,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tumworobere/hello-rails-back-end.git"
+    "url": "https://github.com/Tumworobere/Hello-Rails-Back-End.git"
   },
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Tumworobere/hello-rails-back-end/issues"
+    "url": "https://github.com/Tumworobere/Hello-Rails-Back-End.git/issues"
   },
-  "homepage": "https://github.com/Tumworobere/hello-rails-back-end#readme",
+  "homepage": "https://github.com/Tumworobere/Hello-Rails-Back-End.git#readme",
   "devDependencies": {
     "stylelint": "^13.13.1",
     "stylelint-config-standard": "^21.0.0",
