@@ -1,3 +1,2 @@
 class Message < ApplicationRecord
 end
-
