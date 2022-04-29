@@ -1,0 +1,5 @@
+Message.create(content: 'Hello SJA')
+Message.create(content: 'Hello Gordon!')
+Message.create(content: 'Good Shahier!')
+Message.create(content: 'Good Isaac!')
+Message.create(content: 'Welcome!')
